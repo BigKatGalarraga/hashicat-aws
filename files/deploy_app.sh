@@ -11,7 +11,15 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Testing 123, testing 123, Hello There!.
+  Welcome to ${PREFIX}'s application. 
+ _______________________
+  Kenobi, 'Hello There' 
+ _______________________
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
   <!-- END -->
 
   </div>
